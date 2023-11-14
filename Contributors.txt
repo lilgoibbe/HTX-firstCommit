@@ -1,4 +1,4 @@
 #Enter your name - not in the top
 # Contributors
-- [Jianfeng Shao](https://github.com/JianfengShao)
+- [Chris Bruhn](https://github.com/ChrisBruhn)
 #Nor in the buttom
