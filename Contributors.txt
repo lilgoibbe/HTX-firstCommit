@@ -1,4 +1,4 @@
 #Enter your name - not in the top
 # Contributors
 - [Chris Bruhn](https://github.com/ChrisBruhn)
-#Nor in the buttom
+#Nor in the bottom
